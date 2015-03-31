@@ -29,8 +29,8 @@
 	    </div>
 
 		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="freshkills.php"><img class="img-responsive" src="img/freshkills.jpg"></a><h5>Freshkills Park+ <small> Mobile</small></h5></div>
-			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="urbanforms.php"><img class="img-responsive" src="img/urbanforms_05.jpg"></a><h5>Urban Forms <small> Web</small></h5></div>
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><img class="img-responsive" src="img/freshkills.jpg"><h5>Freshkills Park+ <small> Mobile</small></h5></div>
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><img class="img-responsive" src="img/urbanforms_05.jpg"><h5>Urban Forms <small> Web</small></h5></div>
 			
 		</div>
 

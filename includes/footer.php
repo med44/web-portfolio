@@ -3,8 +3,9 @@ echo
 '	<footer>
 		<div class="row footerContainer">
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-				<span class="glyphicon glyphicon-map-marker"></span>&nbsp <a href="https://www.google.com/maps/place/187+Lafayette+St,+New+York,+NY+10013/@40.7206797,-73.9982672,17z/data=!3m1!4b1!4m2!3m1!1s0x89c2598905bfd427:0xdb15d47046a7cbf">187 Lafayette St. 5th Floor<br>
-				&nbsp&nbspNew York, NY 10013 </a><br>
+				<span class="glyphicon glyphicon-map-marker"></span>&nbsp 
+				<div class="footerAddress"><a href="https://www.google.com/maps/place/187+Lafayette+St,+New+York,+NY+10013/@40.7206797,-73.9982672,17z/data=!3m1!4b1!4m2!3m1!1s0x89c2598905bfd427:0xdb15d47046a7cbf">187 Lafayette St. 5th Floor<br>
+				New York, NY 10013</a></div>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 				<span class="glyphicon glyphicon-earphone"></span>&nbsp <a href="tel:1-917-476-8144">917-476-8144</a><br>

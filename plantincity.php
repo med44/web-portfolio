@@ -24,7 +24,7 @@
 	      		
 				<div class="col-lg-4 col-lg-pull-8 col-md-4 col-md-pull-8 col-sm-12 col-xs-12 intro">
 					<ol class="breadcrumb">
-					  <li><a href="work.html">Work</a> /</li>
+					  <li><a href="work.php">Work</a> /</li>
 					</ol>
 					<h2>Plant-in City <small>2012</small></h2>
 						<div class="spacer">&nbsp</div>
@@ -49,7 +49,8 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-sm hidden-xs"></div>				
 				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-					<iframe width="640" height="360" src="https://www.youtube.com/embed/SJlG-qswsoQ?rel=0" frameborder="0" allowfullscreen></iframe>
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" width="640" height="360" src="https://www.youtube.com/embed/SJlG-qswsoQ?rel=0" allowfullscreen></iframe></div>
 					<h6>Video demo of our first Kickstarter funded installation.</h6>	
 				</div>
 			</div>

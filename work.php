@@ -22,32 +22,38 @@
 			
 		<div class="row">
 			
-			<div class="col-lg-4 col-md-4  col-sm-6 col-xs-12"><a href="#"><a href="plant_in_city.html"><img class="img-responsive" src="img/plant_in_city_01.jpg"></a>
+			<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12"><a href="#"><a href="plantincity.php"><img class="img-responsive" src="img/plant_in_city_01crop.jpg"></a>
 				<h4>Plant-in City  <small> Installation</small></h4>
 				<p>Donec sit amet interdum diam. Nulla rutrum tempus nibh, sit amet eleifend lacus consectetur</p>
 			</div>
 			
-			<div class="col-lg-4 col-md-4  col-sm-6 col-xs-12"><a href="#"><img class="img-responsive" src="img/Urballoon_Tompkins.jpg"></a>
+			<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12"><a href="urballoon.php"><img class="img-responsive" src="img/urballoon_02crop.jpg"></a>
 				<h4>Urballoon <small> Installation</small></h4>
 				<p>Donec sit amet interdum diam. Nulla rutrum tempus nibh, sit amet eleifend lacus consectetur</p>
 			</div>
 			
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><a href="#"><img class="img-responsive" src="img/urbanforms_05.jpg"></a>
-				<h4>Urban Forms <small> Web</small></h4>
-				<p>Donec sit amet interdum diam. Nulla rutrum tempus nibh, sit amet eleifend lacus consectetur</p>
-			</div>
-			
+											
 					
 		</div>
 		
 		<div class="row">
+			<div class="spacer"></div>	
+					
+			<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12"><a href="freshkills.php"><img class="img-responsive" src="img/freshkills.jpg"></a>
+				<h4>Freshkills Park+ <small> Mobile</small></h4>
+				<p>Donec sit amet interdum diam. Nulla rutrum tempus nibh, sit amet eleifend lacus consectetur</p>
+			</div>
 			
-			<div class="spacer"></div>
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="urbanforms.php"><img class="img-responsive" src="img/urbanforms_05.jpg"></a>
+				<h4>Urban Forms <small> Web</small></h4>
+				<p>Donec sit amet interdum diam. Nulla rutrum tempus nibh, sit amet eleifend lacus consectetur</p>
+			</div>
+		</div>
+		
+		<div class="row">						
+			<div class="spacer"></div>												
 									
-			
-			
-									
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><a href="#"><img class="img-responsive" src="img/Urban_Speaker.jpg"></a>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><a href="urbanspeaker.php"><img class="img-responsive" src="img/Urban_Speaker.jpg"></a>
 				<h4>Urban Speaker <small> Installation</small></h4>
 				<p>Donec sit amet interdum diam. Nulla rutrum tempus nibh, sit amet eleifend lacus consectetur</p>
 			</div>

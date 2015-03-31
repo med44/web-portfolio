@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>plantincity.php</string>
+	<string>contact.php</string>
 	<key>documents</key>
 	<array>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>css</string>
 			<key>regexFolderFilter</key>
@@ -34,7 +36,7 @@
 			<key>filename</key>
 			<string>footer.html</string>
 			<key>lastUsed</key>
-			<date>2015-03-17T20:38:00Z</date>
+			<date>2015-03-30T19:46:06Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -47,12 +49,6 @@
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
 			<key>sourceDirectory</key>
 			<string>img</string>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>index.php</string>
-			<key>lastUsed</key>
-			<date>2015-03-17T21:04:56Z</date>
 		</dict>
 		<dict>
 			<key>expanded</key>
@@ -80,17 +76,27 @@
 		</dict>
 		<dict>
 			<key>filename</key>
+			<string>index2.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-30T17:35:09Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>index.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-30T16:49:53Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
 			<string>plantincity.php</string>
 			<key>lastUsed</key>
-			<date>2015-03-17T21:16:49Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2015-03-30T16:40:02Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>work.php</string>
 			<key>lastUsed</key>
-			<date>2015-03-17T21:04:54Z</date>
+			<date>2015-03-30T16:39:50Z</date>
 		</dict>
 		<dict>
 			<key>expanded</key>
@@ -102,48 +108,208 @@
 			<key>sourceDirectory</key>
 			<string>includes</string>
 		</dict>
+		<dict>
+			<key>filename</key>
+			<string>freshkills.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-30T19:46:04Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>urbanforms.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-30T19:46:04Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>contact.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-31T02:31:20Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>about.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-31T00:59:34Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>project.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-30T21:32:07Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>mailer.php</string>
+			<key>lastUsed</key>
+			<date>2015-03-31T02:17:24Z</date>
+		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>info/plantincity_info.php</key>
+		<key>about.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>8</integer>
+				<integer>29</integer>
 				<key>line</key>
+				<integer>135</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>87</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>201</integer>
+			</dict>
+		</dict>
+		<key>contact.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>44</integer>
+				<key>line</key>
+				<integer>45</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>11</integer>
+		</dict>
+		<key>css/bootstrap.css</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>10</integer>
+				<key>line</key>
+				<integer>108</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>93</integer>
+		</dict>
+		<key>includes/footer.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
 				<integer>20</integer>
+				<key>line</key>
+				<integer>6</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>plantincity.php</key>
+		<key>includes/meta.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>199</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>30</integer>
+				<integer>6</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+		</dict>
+		<key>js/app.js</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>mailer.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>41</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>1</integer>
+		</dict>
+		<key>project.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>7</integer>
+				<key>line</key>
+				<integer>62</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>67</integer>
+			</dict>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>plantincity.php</string>
-		<string>info/plantincity_info.php</string>
+		<string>about.php</string>
+		<string>contact.php</string>
+		<string>css/bootstrap.css</string>
+		<string>js/app.js</string>
+		<string>mailer.php</string>
+		<string>includes/meta.php</string>
+		<string>project.php</string>
+		<string>includes/footer.php</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{0, 4}, {1280, 873}}</string>
+	<string>{{720, 49}, {720, 828}}</string>
 </dict>
 </plist>

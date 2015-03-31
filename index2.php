@@ -23,18 +23,11 @@
 			</div>
 			
 			<div class="row">
-				<div class="spacer"></div>
-		  		<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="urbanspeaker.php"><img class="img-responsive" src="img/Urban_Speaker_01crop.jpg"></a><h5>Urban Speaker <small>Installation</small></h5></div>
-		<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="urballoon.php"><img class="img-responsive" src="img/urballoon_01crop.jpg"></a><h5>Urballoon <small> Installation</small></h5></div>
+		  		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"><a href="urbanspeaker.php"><img class="img-responsive" src="img/Urban_Speaker_01crop.jpg"></a><h5>Urban Speaker <small>Installation</small></h5></div>
+		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"><a href="urballoon.php"><img class="img-responsive" src="img/urballoon_01crop.jpg"></a><h5>Urballoon <small> Installation</small></h5></div>
+		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"><a href="freshkills.php"><img class="img-responsive" src="img/freshkills.jpg"></a><h5>Freshkills Park+ <small> Mobile</small></h5></div>
 	    </div>
 
-		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="freshkills.php"><img class="img-responsive" src="img/freshkills.jpg"></a><h5>Freshkills Park+ <small> Mobile</small></h5></div>
-			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="urbanforms.php"><img class="img-responsive" src="img/urbanforms_05.jpg"></a><h5>Urban Forms <small> Web</small></h5></div>
-			
-		</div>
-
-	
 	<div class="row">
 		<div class="spacer"></div>
 		
