@@ -5,6 +5,7 @@
     <?php include 'includes/meta.php';?>
   </head>
 <body data-grid-framework="b3" data-grid-color="pink" data-grid-opacity="0.3" data-grid-zindex="10" data-grid-gutterwidth="30px" data-grid-nbcols="16">
+	<a id="top"></a>
     <div class="container">
 			<div class="row">
 									
@@ -58,6 +59,9 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-lg hidden-md">
 					<?php include 'info/urballoon_info.php';?>
+				</div>
+				<div class="hidden-lg hidden-md col-sm-12 col-xs-12 topLink">
+					<a href="#top"><span class="glyphicon glyphicon-chevron-up"></span> Back to top</a>
 				</div>
 			</div>
 

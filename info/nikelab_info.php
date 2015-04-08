@@ -15,8 +15,8 @@ echo '
 		</div>	
 		<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
 			<p><strong>Awards:</strong></br>
-			<a href="http://">Link 1</a></br>
-			<a href="http://">Link 2</a></br>
+			Cannes Gold Cyber Lion</br>
+			One Show Gold Award</br>
 			</p>
 		</div>	
 	</div>

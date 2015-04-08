@@ -105,8 +105,23 @@ a,.socialIcon{
 	list-style-type: none;
 }
 
-contactSend{
+.contactSend{
 	width:25%;
+}
+
+.instruction{
+	font-size: 1.2em;
+	font-weight: light;
+	color:grey;	
+}
+
+#buttonDiv{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.topLink{
+	font-size:1.2em;
 }
 
 i{
@@ -126,6 +141,12 @@ iframe#twitter-widget-0.twitter-timeline.twitter-timeline-rendered{
 }
 
 @media (max-width: 767px) {
+	
+	p{
+		font-size:1.1em;
+		line-height:1.4em;
+		text-align:justify;
+	}
 		
 	.social{
 		text-align:left;
@@ -733,10 +754,14 @@ h3 .small {
 }
 
 h4,
-h5,
-h6 {
+h5 {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+h6 {
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 h4 small,
