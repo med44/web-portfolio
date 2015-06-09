@@ -5,6 +5,7 @@
     <?php include 'includes/meta.php';?>
   </head>
 <body data-grid-framework="b3" data-grid-color="pink" data-grid-opacity="0.3" data-grid-zindex="10" data-grid-gutterwidth="30px" data-grid-nbcols="16">
+	<?php include_once("includes/analytics.php");?>
     <a id="top"></a>
 	<div class="container">
 			<div class="row">
@@ -20,7 +21,7 @@
 				
 				<div class="spacer">&nbsp</div>				
 				<div class="col-lg-8 col-lg-push-4 col-md-8 col-md-push-4 col-sm-12 col-xs-12">
-					<img class="img-responsive" src="img/nikelab_01.jpg"><h6>Nikelab was a showcase of online experiments in storytelling for brands.</h6>
+					<img class="img-responsive" src="img/nikelab_01.jpg"><h6>Nikelab was a showcase of online experiments in storytelling and experiences.</h6>
 				</div>
 	      		
 				<div class="col-lg-4 col-lg-pull-8 col-md-4 col-md-pull-8 col-sm-12 col-xs-12 intro">
@@ -40,14 +41,14 @@
 					<?php include 'info/nikelab_info.php';?>				
 				</div>
 			
-				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_02.jpg"><h6>Using Nike products and innovations as a starting point, artists were commisioned digital experiences to be shown on the site, like this game by Eboy.</h6></div>						
+				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_02.jpg"><h6>Using Nike products and innovations as a starting point, artists were commisioned digital experiences to be shown on the site, like a 8-bit robotic football game by Eboy.</h6></div>						
 				</div>
 			
 			<div class="row">
 
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-sm hidden-xs"></div>
 
-				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_04.jpg"><h6>This comic book by Kozyndan came to life with animation and sound.</h6></div>
+				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_04.jpg"><h6>A comic book by Kozyndan came to life with animation and sound.</h6></div>
 
 			</div>
 			
@@ -55,7 +56,7 @@
 
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-sm hidden-xs"></div>
 
-				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_03.jpg"><h6>This slot car racing game was developed by the R/GA team.</h6></div>
+				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_03.jpg"><h6>The slot car racing game was developed by the R/GA team.</h6></div>
 
 			</div>
 			
@@ -63,7 +64,7 @@
 
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-sm hidden-xs"></div>
 
-				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_05.jpg"><h6>Products were featured and its benefits explored using 3D models by Tronic.</h6></div>
+				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><img class="img-responsive" src="img/nikelab_05.jpg"><h6>Products were explored and explained using 3D models by Tronic.</h6></div>
 
 			</div>
 			

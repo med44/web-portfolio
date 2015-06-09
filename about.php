@@ -6,6 +6,8 @@
     <?php include 'includes/meta.php';?>
   </head>
 <body data-grid-framework="b3" data-grid-color="pink" data-grid-opacity="0.3" data-grid-zindex="10" data-grid-gutterwidth="30px" data-grid-nbcols="16">
+	<?php include_once("includes/analytics.php");?>
+	<a id="top"></a>
     <div class="container">
 			<div class="row">
 									
@@ -26,6 +28,7 @@
 				<a href="#studio">Studio</a></br>
 				<a href="#bio">Bio</a></br>
 				<a href="#clients">Clients</a></br>
+				<a href="#awards">Awards</a></br>
 				<a href="#press">Press</a></br>
 				<div class="spacer"></div>
 			</div>
@@ -48,8 +51,11 @@
 					<li>Video & Animation</li>
 					<li>Game Design</li>
 					<li>Physical Computing R&D / Prototyping</li>
-				</ul>			
+				</ul>						
 				</p>
+				<div class="hidden-lg hidden-md hidden-sm visible-xs-block topLink">
+					<a href="#top"><span class="glyphicon glyphicon-chevron-up"></span> Back to top</a>
+				</div>
 			</div>
 		</div>
 		
@@ -63,6 +69,9 @@
 				<p>He does interaction design with devices, installations, video, sound, wireless networks, the web and programming. His work has been shown at Ars Electronica, Eyebeam, Museum of Contemporary Art of Caracas, ZKM and ResFest, among others. His background is in architecture, video and interactive media. In 2003 he received an Ars Electronica Golden Nica award for one of his wireless projects, Node Runner.</p>
 
 				<p>He currently lives in New York, where he works as an artist and freelance interaction designer.</p>
+				<div class="hidden-lg hidden-md hidden-sm visible-xs-block topLink">
+					<a href="#top"><span class="glyphicon glyphicon-chevron-up"></span> Back to top</a>
+				</div>				
 			</div>
 		</div>
 		
@@ -125,11 +134,32 @@
 					<li>Sunglass Hut
 					<li>The Standard Hotels
 					<li>VML
-					<li>WiFi-Ille-De-France
+					<li>WiFi-Ille-De-France	
 				</ul>
-			</div>			
+				<div class="hidden-lg hidden-md hidden-sm visible-xs-block topLink">
+					<a href="#top"><span class="glyphicon glyphicon-chevron-up"></span> Back to top</a>
+				</div>
+			</div>
+			
 		</div>
 		
+		<div class="row">
+			<div class="spacer"></div>
+			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12  hidden-xs"></div>
+			<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+				<h4><a id="awards" class="anchor">Awards</a></h4>
+				<p>
+				<a href="http://bigappsideas.challengepost.com/submissions">NYC Big Apps Ideas.</a> New York, 2011.</br>
+				<a href="http://adage.com/article/special-report-media-vanguard-awards-2010/media-vanguard-winner-radio-ipad-app/147323/">Ad Age Media Vanguard Award.</a> USA, 2010.</br>
+				<a href="http://www.rga.com/news/releases/wins-only-us-gold/">Gold Cyber Lion.</a> Cannes Lions International Festival of Creativity, Cannes 2003.</br>
+			 	<a href="http://www.aec.at/prix/jp/winners/2003-prix-gewinner-net-vision-net-excellence/">Golden Nica: Net Vision.</a> Ars Electronica Prix, Linz 2003.</br>
+			 	<a href="http://eyebeam.org/people/carlos-j-gomez-de-llarena">Artist in Residence.</a> Eyebeam, New York 2002-2003.</br>
+				</p>
+				<div class="hidden-lg hidden-md hidden-sm visible-xs-block topLink">
+					<a href="#top"><span class="glyphicon glyphicon-chevron-up"></span> Back to top</a>
+				</div>
+			</div>			
+		</div>
 		
 		
 		<div class="row">
@@ -180,6 +210,9 @@
 		      Jeffrey Shaw &amp; Peter Weibel. <a href="http://mitpress.mit.edu/catalog/item/default.asp?tid=9552&ttype=2">Future Cinema.</a> MIT Press, 2003<br><br>
 		      Hannes Leopoldseder, Christine Sch&ouml;mepf. <a href="http://www.hatjecantz.de/controller.php?cmd=detail&titzif=00001355">CyberArts 2003: International Compendium Prix Ars Electronica</a> Hatje Cantz, 2003<br><br>
 		      </p>
+			<div class="hidden-lg hidden-md hidden-sm visible-xs-block topLink">
+				<a href="#top"><span class="glyphicon glyphicon-chevron-up"></span> Back to top</a>
+			</div>
 			</div>
 		</div>
 			

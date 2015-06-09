@@ -5,6 +5,7 @@
     <?php include 'includes/meta.php';?>
   </head>
 <body data-grid-framework="b3" data-grid-color="pink" data-grid-opacity="0.3" data-grid-zindex="10" data-grid-gutterwidth="30px" data-grid-nbcols="16">
+	<?php include_once("includes/analytics.php");?>
     <a id="top"></a>
 	<div class="container">
 			<div class="row">
@@ -47,7 +48,7 @@
 			
 			</div>
 			
-				<div class="row">
+				<!--<div class="row">
 
 					<div class="col-lg-4 col-md-4 hidden-sm hidden-xs"></div>
 
@@ -55,7 +56,7 @@
 
 					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><img class="img-responsive" src="img/metropoliphone_05.jpg"><h6>New York City water taxi map.</h6></div>
 
-				</div>
+				</div>-->
 				
 				<div class="row">
 

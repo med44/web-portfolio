@@ -1,7 +1,8 @@
 <?php
 echo'
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
+	<link href="http://fonts.googleapis.com/css?family=Roboto:500,400" rel="stylesheet" type="text/css">    
+	<!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--<script src="js/med44.js"></script>-->

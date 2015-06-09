@@ -5,6 +5,7 @@
     <?php include 'includes/meta.php';?>
   </head>
 <body data-grid-framework="b3" data-grid-color="pink" data-grid-opacity="0.3" data-grid-zindex="10" data-grid-gutterwidth="30px" data-grid-nbcols="16">
+	<?php include_once("includes/analytics.php");?>    		
     <a id="top"></a>
 	<div class="container">
 			<div class="row">
